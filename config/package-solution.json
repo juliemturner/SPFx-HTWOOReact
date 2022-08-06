@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spfx-htwooreact-client-side-solution",
+    "id": "387f0040-efdd-4af4-b3fb-baec9e9185ba",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.15.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "spfx-htwooreact description"
+      },
+      "longDescription": {
+        "default": "spfx-htwooreact description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "spfx-htwooreact Feature",
+        "description": "The feature that activates elements of the spfx-htwooreact solution.",
+        "id": "4762195c-8618-43b1-a0cc-ee22a70410eb",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-htwooreact.sppkg"
+  }
+}

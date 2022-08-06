@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "spfx-htwooreact",
+    "libraryId": "387f0040-efdd-4af4-b3fb-baec9e9185ba",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "spfx-htwooreact",
+    "solutionShortDescription": "spfx-htwooreact description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
